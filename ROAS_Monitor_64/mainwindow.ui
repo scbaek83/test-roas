@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>991</width>
+    <height>578</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <layout class="QGridLayout" name="gridLayout_3">
+    <item row="0" column="0">
+     <widget class="QDockWidget" name="dockDeviceList">
+      <property name="maximumSize">
+       <size>
+        <width>400</width>
+        <height>524287</height>
+       </size>
+      </property>
+      <property name="features">
+       <set>QDockWidget::DockWidgetMovable</set>
+      </property>
+      <property name="windowTitle">
+       <string>장치 리스트</string>
+      </property>
+      <widget class="QWidget" name="dockWidgetContents">
+       <layout class="QGridLayout" name="gridLayout">
+        <item row="0" column="0">
+         <widget class="QTreeWidget" name="treeDeviceList">
+          <column>
+           <property name="text">
+            <string>장치명</string>
+           </property>
+           <property name="textAlignment">
+            <set>AlignCenter</set>
+           </property>
+          </column>
+          <column>
+           <property name="text">
+            <string>IP Address</string>
+           </property>
+           <property name="textAlignment">
+            <set>AlignCenter</set>
+           </property>
+          </column>
+          <column>
+           <property name="text">
+            <string>상태</string>
+           </property>
+           <property name="textAlignment">
+            <set>AlignCenter</set>
+           </property>
+          </column>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+    <item row="0" column="1">
+     <widget class="QDockWidget" name="dockEventList">
+      <property name="features">
+       <set>QDockWidget::DockWidgetMovable</set>
+      </property>
+      <property name="windowTitle">
+       <string>이벤트</string>
+      </property>
+      <widget class="QWidget" name="dockWidgetContents_2">
+       <layout class="QGridLayout" name="gridLayout_2">
+        <item row="0" column="0">
+         <widget class="QTreeWidget" name="treeEventList">
+          <property name="selectionBehavior">
+           <enum>QAbstractItemView::SelectRows</enum>
+          </property>
+          <column>
+           <property name="text">
+            <string>장치명</string>
+           </property>
+           <property name="textAlignment">
+            <set>AlignCenter</set>
+           </property>
+          </column>
+          <column>
+           <property name="text">
+            <string>채널</string>
+           </property>
+           <property name="textAlignment">
+            <set>AlignCenter</set>
+           </property>
+          </column>
+          <column>
+           <property name="text">
+            <string>이벤트</string>
+           </property>
+           <property name="textAlignment">
+            <set>AlignCenter</set>
+           </property>
+          </column>
+          <column>
+           <property name="text">
+            <string>발생 시간</string>
+           </property>
+           <property name="textAlignment">
+            <set>AlignCenter</set>
+           </property>
+          </column>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+    <item row="1" column="0">
+     <widget class="QPushButton" name="btnTest">
+      <property name="text">
+       <string>TEST</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>:/new/prefix1/image/1495433778_Connect_256x256-32.ico</normaloff>:/new/prefix1/image/1495433778_Connect_256x256-32.ico</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>16</width>
+        <height>16</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="1">
+     <widget class="QPushButton" name="btnClearEvent">
+      <property name="text">
+       <string>Clear Event</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>991</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuAbout">
+    <property name="title">
+     <string>About</string>
+    </property>
+    <addaction name="actionAbout"/>
+   </widget>
+   <addaction name="menuAbout"/>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionConnect"/>
+   <addaction name="actionDisconnect"/>
+   <addaction name="separator"/>
+   <addaction name="actionDeviceAdd"/>
+   <addaction name="actionDeviceDelete"/>
+   <addaction name="separator"/>
+   <addaction name="actionConnectUSB"/>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="actionConnect">
+   <property name="icon">
+    <iconset resource="roas_resource.qrc">
+     <normaloff>:/icon/image/1495437474_connect_established.png</normaloff>:/icon/image/1495437474_connect_established.png</iconset>
+   </property>
+   <property name="text">
+    <string extracomment="text">연결</string>
+   </property>
+   <property name="iconText">
+    <string extracomment="Connect">연결</string>
+   </property>
+   <property name="statusTip">
+    <string>장비 연결</string>
+   </property>
+  </action>
+  <action name="actionDisconnect">
+   <property name="icon">
+    <iconset resource="roas_resource.qrc">
+     <normaloff>:/icon/image/1495433836_stock_disconnect.ico</normaloff>:/icon/image/1495433836_stock_disconnect.ico</iconset>
+   </property>
+   <property name="text">
+    <string>연결 해제</string>
+   </property>
+   <property name="statusTip">
+    <string>연결 해제</string>
+   </property>
+  </action>
+  <action name="actionDeviceAdd">
+   <property name="icon">
+    <iconset resource="roas_resource.qrc">
+     <normaloff>:/icon/image/1495438874_group_full_add.png</normaloff>:/icon/image/1495438874_group_full_add.png</iconset>
+   </property>
+   <property name="text">
+    <string>DeviceAdd</string>
+   </property>
+   <property name="iconText">
+    <string>추가 삭제</string>
+   </property>
+   <property name="toolTip">
+    <string>추가 삭제</string>
+   </property>
+   <property name="statusTip">
+    <string>장치 추가 삭제</string>
+   </property>
+  </action>
+  <action name="actionDeviceDelete">
+   <property name="icon">
+    <iconset resource="roas_resource.qrc">
+     <normaloff>:/icon/image/1495438886_group_full_remove.png</normaloff>:/icon/image/1495438886_group_full_remove.png</iconset>
+   </property>
+   <property name="text">
+    <string>장치 제거</string>
+   </property>
+   <property name="statusTip">
+    <string>등록된 장치 제거</string>
+   </property>
+  </action>
+  <action name="actionConnectUSB">
+   <property name="icon">
+    <iconset resource="roas_resource.qrc">
+     <normaloff>:/icon/image/usb_connector.png</normaloff>:/icon/image/usb_connector.png</iconset>
+   </property>
+   <property name="text">
+    <string>ConnectUSB</string>
+   </property>
+  </action>
+  <action name="actionAbout">
+   <property name="text">
+    <string>About</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="roas_resource.qrc"/>
+ </resources>
+ <connections/>
+</ui>

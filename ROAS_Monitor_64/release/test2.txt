@@ -1,0 +1,33 @@
+2017 10 11 13 18 06 Clear Log
+2017 10 11 13 18 33 All channel port changed to Sub
+2017 10 11 13 18 33 All channel port changed to Main
+2017 10 11 13 18 34 All channel port changed to Sub
+2017 10 11 13 18 35 All channel port changed to Main
+2017 10 11 13 18 35 All channel port changed to Sub
+2017 10 11 13 18 36 All channel mode changed to Auto
+2017 10 11 13 18 37 All channel mode changed to Manual
+2017 10 11 13 18 38 All channel port changed to Sub
+2017 10 11 13 18 38 All channel port changed to Main
+2017 10 11 13 18 39 All channel port changed to Sub
+2017 10 11 13 18 40 Ch6 Mode changed to Auto 
+2017 10 11 13 18 40 Ch6 Mode changed to Manual
+2017 10 11 13 18 41 Ch6 Port changed to Main
+2017 10 11 13 18 41 Ch6 Port changed to Sub 
+2017 10 11 13 18 42 Ch6 Port changed to Main
+2017 10 11 13 18 42 Ch6 Port changed to Sub 
+2017 10 11 13 20 04 Ch6 Port changed to Main
+2017 10 11 13 20 05 Ch6 Port changed to Sub 
+2017 10 11 13 20 06 Ch10 Port changed to Main
+2017 10 11 13 20 06 Ch10 Port changed to Main
+2017 10 11 13 20 07 Ch10 Port changed to Main
+2017 10 11 13 20 07 Ch10 Port changed to Sub 
+2017 10 11 13 20 08 Ch10 Port changed to Main
+2017 10 11 13 20 08 Ch10 Port changed to Sub 
+2017 10 11 15 38 46 Start Server
+2017 10 11 15 38 59 59.3.250.75 Connected
+2017 10 11 15 39 21 59.3.250.75 Disconnected
+2017 10 11 15 39 24 59.3.250.75 Connected
+2017 10 11 15 41 01 Start Server
+2017 10 11 15 41 45 59.3.250.75 Connected
+2017 10 11 15 42 45 59.3.250.75 Disconnected
+2017 10 11 15 43 25 59.3.250.75 Connected

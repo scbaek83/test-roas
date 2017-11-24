@@ -1,0 +1,61 @@
+
+Start Server 2017 08 31 17 30 12
+Ch2 Mode changed to Auto 2017 08 31 17 30 44
+Ch2 Mode changed to Manual2017 08 31 17 30 45
+Ch2 Mode changed to Auto 2017 08 31 17 30 47
+Ch2 Mode changed to Manual2017 08 31 17 30 47
+Ch2 Port changed to Sub 2017 08 31 17 30 49
+Ch2 Port changed to Main2017 08 31 17 30 49
+Start Server 2017 08 31 17 32 17
+Ch2 Port changed to Sub 2017 08 31 17 32 25
+Ch2 Port changed to Main2017 08 31 17 32 28
+Start Server 2017 09 01 11 36 08
+2017 09 01 11 36 44 Ch2 Port changed to Main
+2017 09 01 11 36 45 Ch2 Port changed to Sub 
+2017 09 01 11 36 45 Ch2 Port changed to Main
+2017 09 01 11 36 46 Ch2 Mode changed to Auto 
+2017 09 01 11 36 46 Ch2 Mode changed to Manual
+2017 09 01 11 36 47 Ch2 Port changed to Main
+2017 09 01 11 36 47 Ch2 Port changed to Sub 
+2017 09 01 11 37 02 Ch16 Port changed to Main
+2017 09 01 11 37 02 Ch16 Port changed to Sub 
+2017 09 01 11 37 03 Ch16 Mode changed to Auto 
+2017 09 01 11 37 04 Ch16 Mode changed to Manual
+2017 09 01 11 37 05 Ch1 Port changed to Main
+2017 09 01 11 37 05 Ch1 Port changed to Sub 
+2017 09 01 11 37 06 Ch1 Mode changed to Auto 
+2017 09 01 11 37 07 Ch1 Mode changed to Manual
+2017 09 01 11 37 23All channel port changed to Sub
+2017 09 01 11 37 24All channel port changed to Main
+2017 09 01 11 37 25All channel port changed to Sub
+Start Server 2017 09 11 15 48 10
+Start Server 2017 09 13 15 45 41
+2017 09 13 15 47 59 Ch2 Port changed to Main
+2017 09 13 15 48 01 Ch2 Port changed to Sub 
+Start Server 2017 09 14 10 51 50
+Start Server 2017 09 14 13 36 38
+Start Server 2017 09 14 13 38 12
+Start Server 2017 09 14 13 41 06
+Start Server 2017 09 14 14 06 42
+Start Server 2017 09 14 14 19 10
+Start Server 2017 09 14 14 23 14
+Start Server 2017 09 14 15 50 29
+Start Server 2017 09 14 16 57 59
+Start Server 2017 09 15 10 27 58
+Start Server 2017 09 15 10 38 29
+Start Server 2017 09 26 17 22 53
+Start Server 2017 09 27 15 59 48
+Start Server 2017 10 02 11 10 29
+Start Server 2017 10 02 11 15 22
+Start Server 2017 10 02 11 16 53
+Start Server 2017 10 02 11 17 48
+2017 10 02 11 24 07 Ch10 Port changed to Sub 
+2017 10 02 11 24 07 Ch10 Port changed to Main
+2017 10 02 11 24 23 All channel port changed to Sub
+2017 10 02 11 24 24 All channel port changed to Main
+Start Server 2017 10 02 11 32 18
+Start Server 2017 10 02 17 07 58
+2017 10 02 17 16 38 All channel port changed to Main
+2017 10 02 17 16 38 All channel port changed to Sub
+Start Server 2017 10 02 17 32 46
+Start Server 2017 10 10 16 55 23nStart Server 2017 08 31 17 30 12nCh2 Mode changed to Auto 2017 08 31 17 30 44nCh2 Mode changed to Manual2017 08 31 17 30 45nCh2 Mode changed to Auto 2017 08 31 17 30 47nCh2 Mode changed to Manual2017 08 31 17 30 47nCh2 Port changed to Sub 2017 08 31 17 30 49nCh2 Port changed to Main2017 08 31 17 30 49nStart Server 2017 08 31 17 32 17nCh2 Port changed to Sub 2017 08 31 17 32 25nCh2 Port changed to Main2017 08 31 17 32 28nStart Server 2017 09 01 11 36 08n2017 09 01 11 36 44 Ch2 Port changed to Mainn2017 09 01 11 36 45 Ch2 Port changed to Sub n2017 09 01 11 36 45 Ch2 Port changed to Mainn2017 09 01 11 36 46 Ch2 Mode changed to Auto n2017 09 01 11 36 46 Ch2 Mode changed to Manualn2017 09 01 11 36 47 Ch2 Port changed to Mainn2017 09 01 11 36 47 Ch2 Port changed to Sub n2017 09 01 11 37 02 Ch16 Port changed to Mainn2017 09 01 11 37 02 Ch16 Port changed to Sub n2017 09 01 11 37 03 Ch16 Mode changed to Auto n2017 09 01 11 37 04 Ch16 Mode changed to Manualn2017 09 01 11 37 05 Ch1 Port changed to Mainn2017 09 01 11 37 05 Ch1 Port changed to Sub n2017 09 01 11 37 06 Ch1 Mode changed to Auto n2017 09 01 11 37 07 Ch1 Mode changed to Manualn2017 09 01 11 37 23All channel port changed to Subn2017 09 01 11 37 24All channel port changed to Mainn2017 09 01 11 37 25All channel port changed to SubnStart Server 2017 09 11 15 48 10nStart Server 2017 09 13 15 45 41n2017 09 13 15 47 59 Ch2 Port changed to Mainn2017 09 13 15 48 01 Ch2 Port changed to Sub nStart Server 2017 09 14 10 51 50nStart Server 2017 09 14 13 36 38nStart Server 2017 09 14 13 38 12nStart Server 2017 09 14 13 41 06nStart Server 2017 09 14 14 06 42nStart Server 2017 09 14 14 19 10nStart Server 2017 09 14 14 23 14nStart Server 2017 09 14 15 50 29nStart Server 2017 09 14 16 57 59nStart Server 2017 09 15 10 27 58nStart Server 2017 09 15 10 38 29nStart Server 2017 09 26 17 22 53nStart Server 2017 09 27 15 59 48nStart Server 2017 10 02 11 10 29nStart Server 2017 10 02 11 15 22nStart Server 2017 10 02 11 16 53nStart Server 2017 10 02 11 17 48n2017 10 02 11 24 07 Ch10 Port changed to Sub n2017 10 02 11 24 07 Ch10 Port changed to Mainn2017 10 02 11 24 23 All channel port changed to Subn2017 10 02 11 24 24 All channel port changed to MainnStart Server 2017 10 02 11 32 18nStart Server 2017 10 02 17 07 58n2017 10 02 17 16 38 All channel port changed to Mainn2017 10 02 17 16 38 All channel port changed to SubnStart Server 2017 10 02 17 32 46nStart Server 2017 10 10 16 55 23

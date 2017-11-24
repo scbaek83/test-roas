@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>image/1495433836_stock_disconnect.ico</file>
+        <file>image/1495437474_connect_established.png</file>
+        <file>image/1495438874_group_full_add.png</file>
+        <file>image/1495438886_group_full_remove.png</file>
+        <file>image/1495438988_computer_settings.png</file>
+        <file>image/bullet_black.png</file>
+        <file>image/bullet_green.png</file>
+        <file>image/bullet_red.png</file>
+        <file>image/1495437016_Recycle_256x256-32.png</file>
+        <file>image/1495437030_Folder_-_Closed_256x256-32.png</file>
+        <file>image/1495437052_disk_256x256-32.png</file>
+        <file>image/usb_connector.png</file>
+        <file>image/error.png</file>
+        <file>image/exclamation.png</file>
+    </qresource>
+</RCC>
